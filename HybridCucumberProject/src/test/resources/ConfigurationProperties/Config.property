@@ -1,0 +1,16 @@
+browser=chrome
+url=https://opensource-demo.orangehrmlive.com/
+
+#login functionality
+username=Admin
+pass=admin123
+
+
+
+
+
+#Database connection
+dburl=jdbc:mysql://localhost3306/sample?useSSL=false
+dbusername=root
+dbpassword=root
+dbquery=select username, password from login;

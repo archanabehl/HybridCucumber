@@ -1,0 +1,3 @@
+2020-10-18 09:58:50,518 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 09:58:57,318 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 09:59:00,900 [main] INFO BaseClass.Library - Exiting the application and closing the browser
